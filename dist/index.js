@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Number Guessing Game
 import inquirer from "inquirer";
 let systemGeneratedNumber = Math.floor(Math.random() * 10);
